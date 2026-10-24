@@ -92,7 +92,7 @@
       "name": "IPTV直播",
       "type": 0,
       "playerType": 1,
-      "url": "http://192.168.1.19:8899/live.m3u"
+      "url": "proxy://do=live&type=txt&ext=aHR0cHM6Ly9taWtlem91LmdpdGh1Yi5pby90dmJveC1jb25maWcvbGl2ZS5tM3U="
     }
   ],
   "parses": [
